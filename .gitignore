@@ -1,6 +1,9 @@
 .DS_Store
+.DS_Store?
+.DS_Store*
 automate_online-materials/
 pythonchallenges/
+ibios.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
